@@ -6,3 +6,4 @@ workflows:
     authors:
     - orcid: 0000-0002-6130-1021  
     - orcid: 1234-4321-1234-1234
+    - name: Kathy
